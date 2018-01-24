@@ -6,14 +6,34 @@
     "releaseDate": "September 25, 2014",
     "coverImage": "assets/opacity-zero.jpg",
     "tracks": [
-      {"trackNumber": 1, "trackName": "The Last", "trackLength": "4:48", "trackPrice": 0.99 },
-      {"trackNumber": 2, "trackName": "Downtown", "trackLength": "3:13", "trackPrice": 0.99 },
-      {"trackNumber": 3, "trackName": "Yellow Carpet", "trackLength": "3:42", "trackPrice": 0.99 },
-      {"trackNumber": 4, "trackName": "Rocket to Mars", "trackLength": "4:31", "trackPrice": 0.99 },
-      {"trackNumber": 5, "trackName": "Walk, not Run", "trackLength": "2:53", "trackPrice": 0.99 },
-      {"trackNumber": 6, "trackName": "Design", "trackLength": "5:12", "trackPrice": 0.99 },
-      {"trackNumber": 7, "trackName": "Shopping Cart", "trackLength": "9:07", "trackPrice": 0.99 },
-      {"trackNumber": 8, "trackName": "Our Gift to You", "trackLength": "3:59", "trackPrice": 0.99 }
+      {"trackNumber": 1, "trackName": "Pray You Catch Me", "trackLength": "3.15", "trackPrice": 0.99 },
+      {"trackNumber": 2, "trackName": "Hold Up", "trackLength": "3:13", "trackPrice": 0.99 },
+      {"trackNumber": 3, "trackName": "Don't Hurt Yourself", "trackLength": "3:42", "trackPrice": 1.99 },
+      {"trackNumber": 4, "trackName": "Sorry", "trackLength": "4:31", "trackPrice": 0.99 },
+      {"trackNumber": 5, "trackName": "6 Inch", "trackLength": "2:53", "trackPrice": 0.99 },
+      {"trackNumber": 6, "trackName": "Daddy Lessons", "trackLength": "5:12", "trackPrice": 2.99 },
+      {"trackNumber": 7, "trackName": "Love Drought", "trackLength": "9:07", "trackPrice": 0.99 },
+      {"trackNumber": 8, "trackName": "Sandcastles", "trackLength": "3:59", "trackPrice": 0.99 }
     ]
   }
+},
+{
+
+    "id": 2,
+    "artist": "Beyonce",
+    "album": {
+      "name": "Lemonade",
+      "releaseDate": "April 4, 2016",
+      "coverImage": "assets/opacity-zero.jpg",
+      "tracks": [
+        {"trackNumber": 1, "trackName": "The Last", "trackLength": "4:48", "trackPrice": 0.99 },
+        {"trackNumber": 2, "trackName": "Downtown", "trackLength": "3:13", "trackPrice": 0.99 },
+        {"trackNumber": 3, "trackName": "Yellow Carpet", "trackLength": "3:42", "trackPrice": 0.99 },
+        {"trackNumber": 4, "trackName": "Rocket to Mars", "trackLength": "4:31", "trackPrice": 0.99 },
+        {"trackNumber": 5, "trackName": "Walk, not Run", "trackLength": "2:53", "trackPrice": 0.99 },
+        {"trackNumber": 6, "trackName": "Design", "trackLength": "5:12", "trackPrice": 0.99 },
+        {"trackNumber": 7, "trackName": "Shopping Cart", "trackLength": "9:07", "trackPrice": 0.99 },
+        {"trackNumber": 8, "trackName": "Our Gift to You", "trackLength": "3:59", "trackPrice": 0.99 }
+      ]
+    }
 }
